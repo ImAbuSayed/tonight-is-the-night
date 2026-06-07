@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | Pending |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tonight Is The Night](https://music.abusayed.com.bd/Licensing/) |
+| **Get License** | [Get License For Tonight Is The Night](https://music.abusayed.com.bd/Licensing/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f56e39766fb98566e21e2dc143711230f92154577227d28a30d29e8bc4d2ed87` |
 | **Timestamp** | June 08, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
