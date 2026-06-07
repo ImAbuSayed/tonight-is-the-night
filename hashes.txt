@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tonight Is The Night
+
+This log tracks the cryptographic history and versioning for the song **Tonight Is The Night** (tonight-is-the-night).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-08T03:31:13.069323 | `v1` | `f56e39766fb98566e21e2dc143711230f92154577227d28a30d29e8bc4d2ed87` | `d9ff0ea1410e970ad50593b0b5ff798c543ce2701a4f78d41cfb7323a04f174e` | `2026-06-08_tonight-is-the-night-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

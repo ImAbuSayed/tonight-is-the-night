@@ -13,9 +13,9 @@
 | **Title** | Tonight Is The Night |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | May 28, 2026 |
-| **Song Page** | Pending |
+| **Song Page** | [Open Song Page](https://imabusayed.github.io/tonight-is-the-night/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Tonight Is The Night](https://music.abusayed.com.bd/Licensing/) |
+| **Get License** | [Get License For Tonight Is The Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tonight-is-the-night/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
